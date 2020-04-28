@@ -1,0 +1,1 @@
+start ..\Toontown\internal_visual_startup
